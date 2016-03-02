@@ -29,3 +29,5 @@ The code is supposed to be simple enough for young students to read and modify.
 
 Required libraries are included in the repository, in libraries folder.
 To add them to Arduino IDE, go to Sketch -> Import library -> Add library, or just copy them to your arduino folder.
+
+The kit including all the components, and 3D printed box, may be obtained from http://www.diykits.eu/
